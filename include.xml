@@ -1,0 +1,6 @@
+<xml>
+    <files id="haxe">
+        <compilerflag value="-I${haxelib:hxdr_wav}/vendor/include"/>
+        <compilerflag value="-I${haxelib:hxdr_wav}"/>
+    </files>
+</xml>

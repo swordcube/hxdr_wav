@@ -1,0 +1,14 @@
+{
+    "name": "hxdr_wav",
+    "url" : "https://github.com/swordcube/hxdr_wav",
+    "license": "MIT",
+    "tags": ["haxe", "vorbis", "drwav", "dr-wav", "dr_wav", "dr", "wav", "hxdr_wav", "cpp", "binds", "bindings", "native"],
+    "description": "A haxelib containing hxcpp bindings for dr_wav.",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "",
+    "contributors": ["swordcube"],
+    "dependencies": {
+        "hxcpp": ""
+    }
+}
