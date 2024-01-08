@@ -2,6 +2,8 @@
 
 Haxe/hxcpp @:native bindings for [DR Wav](https://github.com/mackron/dr_libs/blob/master/dr_wav.h).
 
+These bindings came from [Blueprint](https://github.com/BlueprintFramework-Team/Blueprint), Go check it out!
+
 ---
 
 This library only works with the Haxe `cpp` target via `hxcpp`.
