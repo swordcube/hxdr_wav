@@ -9,7 +9,7 @@ package dr;
 @:include("vendor/include/dr_wav.h")
 @:buildXml("<include name=\"${haxelib:hxdr_wav}/include.xml\"/>")
 @:unreflective
-extern class Wav {
+extern class WAV {
 	// can't use RawPointers because those seem to break :[
 	@:native('drwav_open_file_and_read_pcm_frames_s16')
 	@:noCompletion
