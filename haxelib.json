@@ -4,9 +4,9 @@
     "license": "MIT",
     "tags": ["haxe", "vorbis", "drwav", "dr-wav", "dr_wav", "dr", "wav", "hxdr_wav", "cpp", "binds", "bindings", "native"],
     "description": "A haxelib containing hxcpp bindings for dr_wav.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "classPath": "src/",
-    "releasenote": "Slightly breaking change: Rename class from Wav to WAV to keep consistency with Dr MP3 bindings.",
+    "releasenote": "Fixed macOS compile errors.",
     "contributors": ["swordcube"],
     "dependencies": {
         "hxcpp": ""
